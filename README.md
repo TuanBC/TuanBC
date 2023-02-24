@@ -64,6 +64,4 @@ Here are some ideas to get you started:
 -->
 
 -----
-Credits: [TuanBC](https://github.com/TuanBC)
-
 Last Edited on: 2023/02/24
